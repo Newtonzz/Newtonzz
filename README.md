@@ -10,10 +10,7 @@
 - 🌱 I’m currently learning ♾️ Cloud Engineer/Developer
 - 📫 How to reach me: Newton#0001 (Discord)
 
+**My Servers**
 
-![Newtonzz github stats](https://github-readme-stats.vercel.app/api?username=Newtonzz&show_icons=true&theme=great-gatsby&hide_border=true&count_private=true&include_all_commits=true)
-
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Newtonzz&theme=great-gatsby">
-</p>
+[![Passion Gaming](https://discordapp.com/api/guilds/594997912983830566/widget.png?style=banner4)](https://discord.com/invite/passionrp)
+[![FiveM Arena](https://discordapp.com/api/guilds/826787717056299018/widget.png?style=banner4)](https://discord.com/invite/5arena)
