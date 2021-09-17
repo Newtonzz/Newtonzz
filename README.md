@@ -12,9 +12,5 @@
 
 **My Servers**
 
-<!-- [![Passion Gaming](https://discordapp.com/api/guilds/594997912983830566/widget.png?style=banner4)](https://discord.com/invite/passionrp)
-[![FiveM Arena](https://discordapp.com/api/guilds/826787717056299018/widget.png?style=banner4)](https://discord.com/invite/5arena) -->
-
-![Passion Gaming](https://discordapp.com/api/guilds/594997912983830566/widget.png?style=banner2)
-
-![FiveM Arena](https://discordapp.com/api/guilds/826787717056299018/widget.png?style=banner2)
+[![Passion Gaming](https://discordapp.com/api/guilds/594997912983830566/widget.png?style=banner4)](https://discord.com/invite/passionrp)
+[![FiveM Arena](https://discordapp.com/api/guilds/826787717056299018/widget.png?style=banner4)](https://discord.com/invite/5arena)
