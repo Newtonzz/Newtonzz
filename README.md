@@ -2,10 +2,11 @@
 
 🔭 I’m currently working on 2 projects and run various servers/Discord bots! 
 - Passion Gaming (https://passiongaming.gg/ | https://discord.gg/passionrp)
-- FiveM Arena (https://discord.gg/5arena)
+- FiveM Arena (https://discord.gg/5arena) (**project closed**)
+- QB Wars (https://discord.gg/tMQrEtDUAe)
 - PassionRP Community Bot#0568 ✔️ verified Bot by Discord
 - Woof#3464 Bot
-- FiveM Arena#4049 Bot
+- QB Wars#4049 Bot
 
 - 🌱 I’m currently learning ♾️ Cloud Engineer/Developer
 - 📫 How to reach me: Newton#0001 (Discord)
