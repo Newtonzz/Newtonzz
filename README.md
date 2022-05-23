@@ -15,4 +15,4 @@
 **My Servers**
 
 [![Passion Gaming](https://discordapp.com/api/guilds/594997912983830566/widget.png?style=banner4)](https://discord.com/invite/passionrp)
-[![cDev](https://discordapp.com/api/guilds/826787717056299018/widget.png?style=banner4)](https://discord.com/invite/cdev)
+[![cDev](https://discordapp.com/api/guilds/860996899372007424/widget.png?style=banner4)](https://discord.com/invite/cdev)
