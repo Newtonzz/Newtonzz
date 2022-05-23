@@ -4,10 +4,8 @@
 - Passion Gaming (https://passiongaming.gg/ | https://discord.gg/passionrp)
 - cDev (https://store.cdev.shop/) | https://discord.gg/cdev
 - FiveM Arena (https://discord.gg/5arena) (**project closed**)
-- QB Wars (https://discord.gg/tMQrEtDUAe)
 - PassionRP Community Bot#0568 ✔️ verified Bot by Discord
-- Woof#3464 Bot
-- QB Wars#4049 Bot
+- QBCore Framework Administrator | https://discord.gg/qbcore
 
 - 🌱 I’m currently learning ♾️ Cloud Engineer/Developer
 - 📫 How to reach me: Newton#0001 (Discord)
