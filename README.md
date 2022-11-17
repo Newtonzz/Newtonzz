@@ -3,6 +3,7 @@
 🔭 I’m currently working on 2 projects and run various servers/Discord bots! 
 - Passion Gaming (https://passiongaming.gg/ | https://discord.gg/passionrp)
 - cDev (https://store.cdev.shop/) | https://discord.gg/cdev
+- Gabz | Development Team (https://www.gabzv.com/) | https://discord.gg/gabz
 - FiveM Arena (https://discord.gg/5arena) (**project closed**)
 - PassionRP Community Bot#0568 ✔️ verified Bot by Discord
 - QBCore Framework Administrator | https://discord.gg/qbcore
