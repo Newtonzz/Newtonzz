@@ -4,6 +4,7 @@
 - [**Passion Gaming**](https://passiongaming.gg/) | [**Discord**](https://discord.gg/passionrp)
 - [**cDev**](https://cdev.shop/) | [**Discord**](https://discord.gg/cdev)
 - [**Gabz Team Developer**](https://www.gabzv.com/) | [**Discord**](https://discord.gg/gabz)
+- [**OTF Gaming Developer**](https://otfgaming.com) | [**Lil Durk Discord**](https://discord.gg/lildurk) 
 - ~~FiveM Arena (https://discord.gg/5arena) (**project closed**)~~
 
 - 📫 How to reach me: Newton#0001 (Discord)
