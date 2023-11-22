@@ -7,7 +7,7 @@
 - [**OTF Gaming Developer**](https://otfgaming.com) | [**Lil Durk Discord**](https://discord.gg/lildurk) 
 - ~~FiveM Arena (https://discord.gg/5arena) (**project closed**)~~
 
-- 📫 How to reach me: Newton#0001 (Discord)
+- 📫 How to reach me: @1src (Discord)
 
 **My Servers**
 
