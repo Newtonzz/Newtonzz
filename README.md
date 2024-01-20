@@ -1,9 +1,7 @@
 ### Hi ![kek](https://cdn.discordapp.com/emojis/774570117002166283.gif?v=1) 
 
 🔭 I own various projects and develop for known public projects.
-- [**Passion Gaming**](https://passiongaming.gg/) | [**Discord**](https://discord.gg/passionrp)
 - [**cDev**](https://cdev.shop/) | [**Discord**](https://discord.gg/cdev)
-- [**Gabz Team Developer**](https://www.gabzv.com/) | [**Discord**](https://discord.gg/gabz)
 - [**OTF Gaming Developer**](https://otfgaming.com) | [**Lil Durk Discord**](https://discord.gg/lildurk) 
 - ~~FiveM Arena (https://discord.gg/5arena) (**project closed**)~~
 
