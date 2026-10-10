@@ -2,6 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D96F6,100:7F52FF&height=180&section=header&text=Newton&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=Mobile%20app%20developer&descAlignY=58&descSize=18" width="100%" alt="Newton">
 
+<h3>Hi <img src="774570117002166283.gif" height="32" alt="kek"></h3>
+
 <img src="https://img.shields.io/badge/3-apps_shipped-0D96F6?style=for-the-badge" alt="3 apps shipped">
 <img src="https://img.shields.io/badge/2-platforms-7F52FF?style=for-the-badge" alt="2 platforms">
 <img src="https://img.shields.io/badge/1-developer-000000?style=for-the-badge" alt="1 developer">
